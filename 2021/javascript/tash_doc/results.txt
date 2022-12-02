@@ -1,0 +1,1151 @@
+Support Tickets Ticket ID,Support Tickets Created Date, , , , , 
+1075933,2022-04-08, ,incident-350,incident-sev-3, , 
+1057683,2022-03-24,2022-04-08,incident-339, , , 
+1057681,2022-03-24,2022-04-08,incident-339, , , 
+1057687,2022-03-24,2022-04-08,incident-339, , , 
+1057693,2022-03-24,2022-04-08,incident-339, , , 
+1057696,2022-03-24,2022-04-08,incident-339, , , 
+1057692,2022-03-24,2022-04-08,incident-339, , , 
+1057697,2022-03-24,2022-04-08,incident-339, , , 
+1057685,2022-03-24,2022-04-08,incident-339, , , 
+1057701,2022-03-24,2022-04-08,incident-339, , , 
+1057702,2022-03-24,2022-04-08,incident-339, , , 
+1057682,2022-03-24,2022-04-08,incident-339, , , 
+1057698,2022-03-24,2022-04-08,incident-339, , , 
+1057690,2022-03-24,2022-04-08,incident-339, , , 
+1057684,2022-03-24,2022-04-08,incident-339, , , 
+1057695,2022-03-24,2022-04-08,incident-339, , , 
+1057675,2022-03-24,2022-04-08,incident-339, , , 
+1057686,2022-03-24,2022-04-08,incident-339, , , 
+1057694,2022-03-24,2022-04-08,incident-339, , , 
+1057700,2022-03-24,2022-04-08,incident-339, , , 
+1057688,2022-03-24,2022-04-08,incident-339, , , 
+1057699,2022-03-24,2022-04-08,incident-339, , , 
+1057680,2022-03-24,2022-04-08,incident-339, , , 
+1057689,2022-03-24,2022-04-08,incident-339, , , 
+1056176,2022-03-24,2022-04-07,incident-332-manual, ,team, 
+1055855,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055707,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055723,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1055429,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055335,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055993,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055980,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055699,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055908,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055433,2022-03-23,2022-04-06,incident-332-manual, ,team,paid
+1056014,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056168,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055878,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055985,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055295,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055850,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055919,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055729,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055999,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056200,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055695,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1056221,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055579,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055339,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1056078,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055954,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056023,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055661,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055970,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056086,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055728,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055637,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1056183,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055992,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055869,2022-03-23,2022-04-07,incident-332-manual, ,professional-plus,paid
+1055136,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1056171,2022-03-24,2022-04-07,incident-332-manual, ,professional,paid
+1055636,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055875,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1056189,2022-03-24,2022-04-07,incident-332-manual, ,professional,paid
+1055725,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055520,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055639,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055307,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055312,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055329,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055692,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055460,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055840,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055319,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055141,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056201,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1056204,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055684,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055459,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055178,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056208,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055972,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055235,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055922,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056001,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055896,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055144,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055882,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056158,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055072,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055581,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055909,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055848,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055184,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056194,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055929,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055928,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056227,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055938,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055679,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055324,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055693,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056211,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055491,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055965,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056045,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056205,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055442,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055948,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056070,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055535,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055904,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055818,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055587,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055192,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055746,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055694,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056037,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055643,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055100,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055412,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055937,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055467,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055104,2022-03-23,2022-04-06,incident-332-manual, ,no-plan, 
+1055864,2022-03-23,2022-04-07,incident-332-manual, ,no-plan, 
+1055543,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055504,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055564,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055550,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055499,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055478,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055553,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055291,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055508,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055317,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055502,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055501,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055513,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055472,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055572,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055516,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055293,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055523,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055554,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055514,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055518,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055497,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055281,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055559,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055288,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055568,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055526,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055477,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055521,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055282,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055551,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055557,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055473,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055561,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055496,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055289,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055540,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055511,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055574,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055575,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055571,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055287,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055475,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055542,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055567,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055292,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055286,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055515,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055566,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055284,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055396,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055519,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055555,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055548,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055528,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055470,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055565,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055495,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055505,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055569,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055544,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055573,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055563,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055507,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055462,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055570,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055290,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055283,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055546,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055503,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055556,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055522,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055510,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055479,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055517,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055527,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055547,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055545,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055285,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055280,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055498,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055500,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055562,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055476,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055158,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055509,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055506,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055549,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055427,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055558,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055525,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055560,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055552,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055524,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055541,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055474,2022-03-23,2022-04-06,incident-332-manual, , , 
+1055512,2022-03-23,2022-04-06,incident-332-manual, , , 
+997884,2022-02-04,2022-02-19,incident-300, ,starter,paid
+988744,2022-01-29,2022-02-12,incident-300, ,starter,paid
+997862,2022-02-04,2022-02-19,incident-300, ,starter,paid
+988725,2022-01-29,2022-02-12,incident-300, ,starter,paid
+997863,2022-02-04,2022-02-19,incident-300, ,professional,paid
+997861,2022-02-04,2022-02-15,incident-300, ,no-plan, 
+997873,2022-02-04,2022-02-15,incident-300, ,no-plan, 
+997896,2022-02-04,2022-02-15,incident-300, ,no-plan, 
+997866,2022-02-04,2022-02-15,incident-300, ,no-plan, 
+1056076,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055631,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056195,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1056041,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056172,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055361,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055600,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055431,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055667,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055898,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056071,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055117,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1056169,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055953,2022-03-23,2022-04-07,incident-332-manual, ,professional-plus,paid
+1055978,2022-03-23,2022-04-07,incident-332-manual, ,professional-plus,paid
+1055578,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055914,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055713,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055747,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055471,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055456,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055338,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055844,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055373,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055142,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055297,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055538,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055532,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056223,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1056224,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055202,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055537,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055601,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055463,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056155,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055686,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055101,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056030,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055300,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055247,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056002,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055488,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056212,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055130,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055201,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055534,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055718,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055175,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056207,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055086,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055925,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055466,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055410,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055645,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1055243,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1055122,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+997841,2022-02-04,2022-02-19,incident-300, ,starter,paid
+997832,2022-02-04,2022-02-19,incident-300, ,starter,paid
+988749,2022-01-29,2022-02-12,incident-300, ,starter,paid
+997887,2022-02-04,2022-02-19,incident-300, ,pro,paid
+988742,2022-01-29,2022-02-12,incident-300, ,pro,paid
+1055407,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1056049,2022-03-23,2022-04-07,incident-332-manual, ,free, 
+1055421,2022-03-23,2022-04-06,incident-332-manual, ,free, 
+1055355,2022-03-23,2022-04-02,incident-332-manual, ,free, 
+1055678,2022-03-23,2022-04-02,incident-332-manual, ,free, 
+1008904,2022-02-14,2022-02-21,incident-309, , , 
+1055327,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055853,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055931,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055803,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055945,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055665,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055452,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056199,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055852,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055484,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056027,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056038,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055200,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055208,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055309,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055375,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055659,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1055155,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055868,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055181,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055638,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055378,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056015,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055231,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055165,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055133,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055417,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055672,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056081,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055348,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055883,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056067,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055967,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055890,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055536,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056164,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055249,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055649,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055251,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+997840,2022-02-04,2022-02-19,incident-300, ,starter,paid
+1055381,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056192,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055253,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056175,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055811,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055205,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056084,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055457,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055440,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055989,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056066,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055641,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055486,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055940,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055153,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055634,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1056191,2022-03-24,2022-04-07,incident-332-manual, ,professional,paid
+1055946,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1056009,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055907,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055673,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055885,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056154,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1056046,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056190,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055886,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055822,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055310,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055808,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055279,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055223,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055276,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055585,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055682,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055135,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055712,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056011,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055702,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056161,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055689,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056218,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055658,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055432,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+997842,2022-02-04,2022-02-19,incident-300, ,starter,paid
+1055635,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056160,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055161,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056188,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1056217,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055872,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055801,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055994,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055879,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055975,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055640,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055960,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055861,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056080,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055652,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055212,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056019,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056193,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055805,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055653,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055957,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055366,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055821,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056024,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056209,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055865,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056068,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056072,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055884,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056203,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055383,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055241,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055487,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055745,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055353,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055350,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055411,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055182,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055403,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055221,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055190,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055272,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055237,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055318,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055308,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055183,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055385,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1056088,2022-03-23,2022-04-06,incident-332-manual, ,team,paid
+1055823,2022-03-23,2022-04-06,incident-332-manual, ,team,paid
+1055138,2022-03-23,2022-04-05,incident-332-manual, , , 
+1055428,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055109,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055227,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055446,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055690,2022-03-23,2022-04-06,incident-332-manual, ,team,paid
+1055191,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055323,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055167,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055270,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055199,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055156,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055246,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+997875,2022-02-04,2022-02-18,incident-300, ,team,paid
+1055089,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055216,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055245,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055092,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055306,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055380,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055384,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055157,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055204,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055225,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055390,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055271,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055131,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055179,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055170,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055302,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055143,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055257,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055418,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055404,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055250,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055397,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055077,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055371,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055337,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055267,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055409,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055163,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055277,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055233,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055095,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055123,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055426,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055151,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055368,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055354,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055377,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055078,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055193,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055060,2022-03-23,2022-04-05,incident-332-manual, , ,paid
+1055058,2022-03-23,2022-04-05,incident-332-manual, , ,paid
+1055057,2022-03-23,2022-04-05,incident-332-manual, , ,paid
+1055055,2022-03-23,2022-04-05,incident-332-manual, ,hv-trial,paid
+1055067,2022-03-23,2022-04-05,incident-332-manual, ,hv-trial,paid
+1055065,2022-03-23,2022-04-05,incident-332-manual, ,hv-trial,paid
+1055062,2022-03-23,2022-04-05,incident-332-manual, ,hv-trial,paid
+1055053,2022-03-23,2022-04-05,incident-332-manual, ,hv-trial,paid
+1055069,2022-03-23,2022-04-05,incident-332-manual, ,hv-trial,paid
+1055172,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1009330,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1072529,2022-04-06, ,incident-348,incident-sev-2, , 
+1072055,2022-04-05, ,incident-347,incident-sev-2, , 
+1010899,2022-02-15,2022-03-01,incident-311, , , 
+1071965,2022-04-05, ,incident-,incident-sev-2, , 
+1057446,2022-03-24,2022-04-08,incident-332, ,team,paid
+1010883,2022-02-15,2022-03-01,incident-311, , , 
+1010894,2022-02-15,2022-03-01,incident-311, , , 
+1010870,2022-02-15,2022-03-01,incident-311, , , 
+1010873,2022-02-15,2022-03-01,incident-311, , , 
+1010884,2022-02-15,2022-03-01,incident-311, , , 
+1009670,2022-02-14,2022-02-28,incident-310, ,no-plan, 
+1011114,2022-02-15,2022-03-01,incident-311, , , 
+1059600,2022-03-27,2022-04-10,incident-332, ,team,paid
+1054141,2022-03-23,2022-04-05,incident-332, ,team,paid
+1053791,2022-03-22,2022-04-05,incident-332, ,hv-trial,paid
+1009211,2022-02-14,2022-03-01,incident-310, ,team,paid
+1053722,2022-03-22,2022-04-06,incident-332, ,starter,paid
+1057969,2022-03-25,2022-04-08,incident-332, ,pro,paid
+1054374,2022-03-23,2022-04-08,incident-332, ,pro,paid
+1057262,2022-03-24,2022-04-08,incident-332, ,starter,paid
+1025391,2022-02-26,2022-03-12,incident-300, ,starter,paid
+1058594,2022-03-25,2022-03-25,incident-332, ,pro,paid
+1009373,2022-02-14,2022-03-01,incident-310, ,starter,paid
+1000447,2022-02-07,2022-02-23,incident-304, ,starter,paid
+995343,2022-02-03,2022-02-17,incident-304, ,starter,paid
+1009253,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009366,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009474,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009535,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009235,2022-02-14,2022-03-04,incident-310, ,starter,paid
+1009508,2022-02-14,2022-02-28,incident-309, ,starter,paid
+1009078,2022-02-14,2022-02-28,incident-309, ,pro,paid
+1009717,2022-02-14,2022-02-28,incident-309, ,starter,paid
+1009467,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009428,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009442,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009353,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009356,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009355,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1000723,2022-02-08,2022-02-22,incident-304, ,starter,paid
+1015145,2022-02-17,2022-03-04,incident-313, ,no-plan, 
+1009757,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009016,2022-02-14,2022-02-23,incident-309, ,no-plan, 
+1058805,2022-03-25,2022-04-08,incident-332, ,pro,paid
+1009183,2022-02-14,2022-02-21,incident-309, ,free, 
+999984,2022-02-07,2022-02-28,incident-309, ,starter,paid
+1058472,2022-03-25,2022-04-08,incident-341, ,pro,paid
+1058528,2022-03-25,2022-04-08,incident-341, ,pro,paid
+1008788,2022-02-14,2022-02-21,incident-309, ,pro,paid
+1058685,2022-03-25,2022-04-08,incident-341, ,pro,paid
+1008812,2022-02-14,2022-02-28,incident-309, ,pro,paid
+1009376,2022-02-14,2022-02-21,incident-310, ,pro,paid
+1009292,2022-02-14,2022-02-28,incident-309, ,starter,paid
+1015085,2022-02-17,2022-02-24,incident-313, ,starter,paid
+1009500,2022-02-14,2022-02-21,incident-310, ,starter,paid
+1009418,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009520,2022-02-14,2022-02-21,incident-310, ,starter,paid
+1009432,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1008937,2022-02-14,2022-02-28,incident-309, ,pro,paid
+1009571,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009412,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009461,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1008834,2022-02-14,2022-02-28,incident-309, ,pro,paid
+1009286,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1008883,2022-02-14,2022-02-22,incident-309, ,team,paid
+1008988,2022-02-14,2022-02-28,incident-309, ,starter,paid
+1009280,2022-02-14,2022-02-28,incident-310, ,free, 
+1009548,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009451,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009655,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009320,2022-02-14,2022-03-01,incident-310, ,starter,paid
+1009445,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009313,2022-02-14,2022-02-21,incident-310, ,free, 
+1009263,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009436,2022-02-14,2022-02-28,incident-310, ,professional,paid
+1009480,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009544,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009485,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009522,2022-02-14,2022-02-22,incident-310, ,pro,paid
+1010013,2022-02-14,2022-02-22,incident-310, ,starter,paid
+1008818,2022-02-14,2022-02-28,incident-309, ,pro,paid
+1009001,2022-02-14,2022-02-28,incident-309, ,pro,paid
+1015179,2022-02-17,2022-02-25,incident-313, ,pro,paid
+1009429,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1025080,2022-02-25,2022-03-07,incident-321, ,pro,paid
+1011642,2022-02-15,2022-03-03,incident-311, ,hv-trial,paid
+1011238,2022-02-15,2022-03-03,incident-311, ,team,paid
+1010888,2022-02-15,2022-03-03,incident-311, ,team,paid
+1008893,2022-02-14,2022-02-27,incident-309, ,team,paid
+1009011,2022-02-14,2022-02-27,incident-309, ,team,paid
+1008915,2022-02-14,2022-02-27,incident-309, ,team,paid
+1009993,2022-02-14,2022-03-03,incident-310, ,team,paid
+1009623,2022-02-14,2022-03-01,incident-310, ,hv-trial,paid
+1009437,2022-02-14,2022-02-27,incident-310, ,team,paid
+1009267,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1056210,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1056034,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055269,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055169,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055132,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1010064,2022-02-14,2022-02-28,incident-309, ,starter,paid
+1056216,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055127,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1056007,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1056017,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055150,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1056029,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055064,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055296,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055451,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1010128,2022-02-14,2022-02-28,incident-310, ,team,paid
+993191,2022-02-02,2022-02-12,incident-304, ,starter,paid
+1056021,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055666,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055876,2022-03-23,2022-04-07,incident-332-manual, ,free,associate-cc
+1056060,2022-03-23,2022-04-07,incident-332-manual, ,free,associate-cc
+1055266,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055603,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055173,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055304,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055405,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055951,2022-03-23,2022-04-07,incident-332-manual, ,free,associate-cc
+1056138,2022-03-24,2022-04-07,incident-332-manual, ,free,associate-cc
+1055997,2022-03-23,2022-04-07,incident-332-manual, ,free,associate-cc
+1055224,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055998,2022-03-23,2022-04-07,incident-332-manual, ,free,associate-cc
+1055719,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055933,2022-03-23,2022-04-07,incident-332-manual, ,free,associate-cc
+1056062,2022-03-23,2022-04-07,incident-332-manual, ,free,associate-cc
+1055070,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055254,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055742,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055892,2022-03-23,2022-04-07,incident-332-manual, ,free,associate-cc
+1055715,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055685,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055152,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055724,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+1055023,2022-03-23,2022-04-06,incident-332-manual, ,free,associate-cc
+997837,2022-02-04,2022-02-19,incident-300, ,free,associate-cc
+997835,2022-02-04,2022-02-19,incident-300, ,free,associate-cc
+997865,2022-02-04,2022-02-19,incident-300, ,free,associate-cc
+997885,2022-02-04,2022-02-19,incident-300, ,free,associate-cc
+997894,2022-02-04,2022-02-19,incident-300, ,free,associate-cc
+997889,2022-02-04,2022-02-19,incident-300, ,free,associate-cc
+988717,2022-01-29,2022-02-12,incident-300, ,free,associate-cc
+988743,2022-01-29,2022-02-12,incident-300, ,free,associate-cc
+988741,2022-01-29,2022-02-12,incident-300, ,free,associate-cc
+1055215,2022-03-23,2022-04-06,incident-332-manual, ,hv-trial,associate-cc
+1056093,2022-03-23,2022-04-07,incident-332-manual, ,hv-trial,associate-cc
+988747,2022-01-29,2022-02-12,incident-300, ,hv-trial,associate-cc
+1055859,2022-03-23,2022-04-07,incident-332-manual, ,hv-trial,associate-cc
+1055210,2022-03-23,2022-04-06,incident-332-manual, ,hv-trial,associate-cc
+1055628,2022-03-23,2022-04-06,incident-332-manual, ,hv-trial,associate-cc
+1055817,2022-03-23,2022-04-06,incident-332-manual, ,hv-trial,associate-cc
+1058514,2022-03-25, ,incident-332, ,free,associate-cc
+1008962,2022-02-14,2022-02-28,incident-309, ,free,associate-cc
+1053812,2022-03-22,2022-04-07,incident-332, ,hv-trial,associate-cc
+1008910,2022-02-14,2022-02-28,incident-309, ,free,associate-cc
+1009332,2022-02-14,2022-02-28,incident-310, ,free,associate-cc
+1009365,2022-02-14,2022-02-28,incident-310, ,free,associate-cc
+1024516,2022-02-25,2022-03-12,incident-321, ,free,paid
+1009455,2022-02-14,2022-02-28,incident-310, ,free,associate-cc
+1009308,2022-02-14,2022-02-28,incident-310, ,free,associate-cc
+1015072,2022-02-17,2022-03-06,incident-313, ,free,associate-cc
+1009527,2022-02-14,2022-02-28,incident-310, ,free,associate-cc
+1056036,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055705,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1056026,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055313,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055927,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055214,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1056185,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055213,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055389,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055711,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1056082,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055735,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056090,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055176,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055979,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056149,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055961,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055732,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055866,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056012,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055630,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055394,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056063,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055159,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055632,2022-03-23,2022-04-08,incident-332-manual, ,pro,paid
+1055299,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056206,2022-03-24,2022-04-07,incident-332-manual, ,professional-plus,paid
+1055901,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1058564,2022-03-25,2022-04-08,incident-341, ,starter,paid
+1009191,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1008842,2022-02-14,2022-02-28,incident-309, ,pro,paid
+1055331,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055721,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1008905,2022-02-14,2022-02-28,incident-309, , , 
+1009402,2022-02-14,2022-02-28,incident-310, , , 
+1009439,2022-02-14,2022-02-28,incident-310, , , 
+1009427,2022-02-14,2022-02-28,incident-310, , , 
+1008857,2022-02-14,2022-03-06,incident-309, ,team,paid
+1056061,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056177,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055226,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055676,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055376,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055333,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055449,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1056000,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055894,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056095,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+997919,2022-02-05,2022-02-19,incident-300, ,pro,paid
+988716,2022-01-29,2022-02-12,incident-300, ,pro,paid
+1011323,2022-02-15,2022-03-02,incident-311, ,pro,paid
+1015144,2022-02-17,2022-03-03,incident-313, ,team,paid
+1009180,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009341,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1002994,2022-02-09,2022-02-27,incident-310, ,team,paid
+997923,2022-02-05,2022-02-19,incident-300, ,hv-trial,associate-cc
+988730,2022-01-29,2022-02-12,incident-300, ,hv-trial,associate-cc
+1055956,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055278,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055943,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055804,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055962,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055322,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055305,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055301,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055118,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055051,2022-03-23, ,incident-332-manual, ,hv-trial,paid
+1009521,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009983,2022-02-14,2022-02-27,incident-310, ,team,paid
+1055964,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055137,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1009261,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1055108,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055959,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055683,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055465,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055114,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055921,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055073,2022-03-23,2022-04-05,incident-332-manual, ,hv-trial,paid
+1009546,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009581,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1013645,2022-02-16,2022-02-24,incident-313, ,starter,paid
+1055736,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1055124,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1056058,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056089,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055398,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055988,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055703,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1056059,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056215,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1056178,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055851,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056079,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055913,2022-03-23,2022-04-07,incident-332-manual, ,professional-plus,paid
+1055650,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1056028,2022-03-23,2022-04-07,incident-332-manual, ,professional-plus,paid
+1056054,2022-03-23,2022-04-07,incident-332-manual, ,professional-plus,paid
+1055935,2022-03-23,2022-04-07,incident-332-manual, ,professional-plus,paid
+1055915,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055140,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1056162,2022-03-24,2022-04-07,incident-332-manual, ,professional,paid
+1055455,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055867,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055681,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1056074,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055874,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055352,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055228,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055660,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055349,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056220,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055710,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055923,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055977,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055995,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055987,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056226,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055688,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055160,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055492,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055444,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055903,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055717,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055596,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055920,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055107,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056057,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055345,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055991,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055274,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055240,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056166,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055530,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055862,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055453,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055483,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055973,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055734,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055439,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055642,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055468,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055358,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055846,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056020,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055180,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055976,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055720,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055743,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055958,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055918,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055674,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055891,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056222,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055744,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055598,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055857,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055314,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055800,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055706,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055887,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055731,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055856,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055648,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055120,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055391,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056069,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+997856,2022-02-04,2022-02-19,incident-300, ,starter,paid
+988720,2022-01-29,2022-02-12,incident-300, ,team,paid
+997921,2022-02-05,2022-02-19,incident-300, ,starter,paid
+997845,2022-02-04,2022-02-19,incident-300, ,starter,paid
+988714,2022-01-29,2022-02-12,incident-300, ,starter,paid
+988736,2022-01-29,2022-02-12,incident-300, ,starter,paid
+997876,2022-02-04,2022-02-19,incident-300, ,professional-plus,paid
+988738,2022-01-29,2022-02-12,incident-300, ,professional-plus,paid
+997850,2022-02-04,2022-02-19,incident-300, ,professional,paid
+997833,2022-02-04,2022-02-19,incident-300, ,pro,paid
+997920,2022-02-05,2022-02-19,incident-300, ,pro,paid
+988715,2022-01-29,2022-02-12,incident-300, ,pro,paid
+988724,2022-01-29,2022-02-12,incident-300, ,pro,paid
+988739,2022-01-29,2022-02-12,incident-300, ,pro,paid
+1055248,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055445,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055262,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055217,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055081,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055085,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055147,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055334,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055443,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055311,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055388,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055325,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055174,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055343,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055261,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055303,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055369,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055422,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055162,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055346,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055347,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055364,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055187,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055234,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055268,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055298,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055328,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055435,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055171,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1056087,2022-03-23,2022-04-06,incident-332-manual, ,team,paid
+997917,2022-02-05,2022-02-18,incident-300, ,team,paid
+1055076,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1054221,2022-03-23,2022-04-06,incident-332, ,team,paid
+1015009,2022-02-17,2022-03-03,incident-313, ,team,paid
+1049850,2022-03-19,2022-04-01,incident-313, ,team,paid
+1015046,2022-02-17,2022-03-06,incident-313, ,team,paid
+1002005,2022-02-08,2022-02-16,incident-304, ,starter,paid
+999829,2022-02-07,2022-02-22,incident-304, ,pro,paid
+999843,2022-02-07,2022-02-22,incident-304, ,pro,paid
+1009499,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009561,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009534,2022-02-14,2022-02-28,incident-310, ,professional,paid
+1009201,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1058699,2022-03-25,2022-04-08,incident-341, ,starter,paid
+1009307,2022-02-14,2022-02-21,incident-310, ,starter,paid
+1058509,2022-03-25,2022-04-08,incident-341, ,pro,paid
+1058734,2022-03-25,2022-04-08,incident-341, ,starter,paid
+1015084,2022-02-17,2022-02-25,incident-313, ,team,paid
+1025164,2022-02-25,2022-03-12,incident-321, ,pro,paid
+1012638,2022-02-16,2022-03-04,incident-310, ,team,paid
+1009311,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009453,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1015086,2022-02-17,2022-02-24,incident-313, ,pro,paid
+1009662,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009214,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009351,2022-02-14,2022-02-21,incident-310, ,pro,paid
+1009297,2022-02-14,2022-02-21,incident-310, ,pro,paid
+1009381,2022-02-14,2022-02-21,incident-310, ,pro,paid
+1009434,2022-02-14,2022-02-27,incident-310, ,team,paid
+1015185,2022-02-17,2022-03-03,incident-313, ,team,paid
+1055984,2022-03-23,2022-04-07,incident-332-manual, ,hv-trial,associate-cc
+1055810,2022-03-23,2022-04-06,incident-332-manual, ,hv-trial,associate-cc
+997854,2022-02-04,2022-02-19,incident-300, ,hv-trial,associate-cc
+997883,2022-02-04,2022-02-19,incident-300, ,hv-trial,associate-cc
+988746,2022-01-29,2022-02-12,incident-300, ,hv-trial,associate-cc
+1009231,2022-02-14,2022-02-28,incident-310, ,hv-trial,associate-cc
+967743,2022-01-11,2022-01-20,incident-194, ,hv-trial,associate-cc
+1009487,2022-02-14,2022-02-21,incident-310, ,professional,paid
+1055722,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055656,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055691,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055392,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055259,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055372,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055936,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055098,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055434,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055485,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1056163,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055942,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056150,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055447,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055106,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055863,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055990,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1056005,2022-03-23,2022-04-07,incident-332-manual, ,professional-plus,paid
+1055968,2022-03-23,2022-04-07,incident-332-manual, ,professional-plus,paid
+1055469,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1056043,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055974,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055489,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055730,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055663,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055654,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056003,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055670,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055595,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055382,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055539,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055647,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055952,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056202,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055966,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056052,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055905,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055888,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056055,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055727,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055529,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055211,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055531,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055362,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056184,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055806,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056225,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055260,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056025,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056165,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1056010,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055924,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055815,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055577,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056051,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055814,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055188,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055583,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+997890,2022-02-04,2022-02-19,incident-300, ,starter,paid
+997924,2022-02-05,2022-02-19,incident-300, ,starter,paid
+988745,2022-01-29,2022-02-12,incident-300, ,starter,paid
+988727,2022-01-29,2022-02-12,incident-300, ,starter,paid
+1055401,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055103,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055166,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055416,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055363,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055342,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055415,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055219,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055275,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055356,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055399,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055125,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055326,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055209,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055374,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055359,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055252,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055244,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055441,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055115,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055195,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055897,2022-03-23,2022-04-06,incident-332-manual, ,team,paid
+1055079,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055087,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+997877,2022-02-04,2022-02-18,incident-300, ,team,paid
+1055066,2022-03-23,2022-04-05,incident-332-manual, ,hv-trial,paid
+1055071,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1009555,2022-02-14,2022-02-25,incident-310, ,team,paid
+1009669,2022-02-14,2022-02-27,incident-309, ,hv-trial,paid
+1014931,2022-02-17,2022-03-06,incident-313, ,team,paid
+1014967,2022-02-17,2022-03-03,incident-313, ,hv-trial,paid
+1009538,2022-02-14,2022-03-01,incident-310, ,team,paid
+1009506,2022-02-14,2022-02-27,incident-310, ,team,paid
+1025152,2022-02-25,2022-03-12,incident-321, ,pro,paid
+997849,2022-02-04,2022-02-19,incident-300, ,hv-trial,associate-cc
+997843,2022-02-04,2022-02-19,incident-300, ,hv-trial,associate-cc
+988732,2022-01-29,2022-02-12,incident-300, ,hv-trial,associate-cc
+1009425,2022-02-14,2022-02-21,incident-310, ,hv-trial,associate-cc
+1014921,2022-02-17,2022-03-03,incident-313, ,team,paid
+1055316,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055926,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056156,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055899,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055644,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055934,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055971,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+995447,2022-02-03,2022-02-11,incident-304, ,pro,paid
+1055880,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055102,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1056006,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055955,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055708,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055425,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055963,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055726,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055655,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056016,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055386,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055996,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056018,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055981,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055589,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+997882,2022-02-04,2022-02-19,incident-300, ,starter,paid
+988740,2022-01-29,2022-02-12,incident-300, ,starter,paid
+988735,2022-01-29,2022-02-12,incident-300, ,starter,paid
+1055436,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+997891,2022-02-04,2022-02-18,incident-300, ,team,paid
+988748,2022-01-29,2022-02-11,incident-300, ,team,paid
+1014960,2022-02-17,2022-02-25,incident-313, ,team,paid
+1009514,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1053793,2022-03-22,2022-03-30,incident-332, ,pro,paid
+1009510,2022-02-14,2022-03-01,incident-310, ,pro,paid
+1009509,2022-02-14,2022-02-27,incident-310, ,team,paid
+1055930,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1056064,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055402,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055669,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055590,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055739,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055145,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1056047,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055461,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055911,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055493,2022-03-23,2022-04-06,incident-332-manual, ,professional-plus,paid
+1055084,2022-03-23,2022-04-06,incident-332-manual, ,professional,paid
+1055889,2022-03-23,2022-04-07,incident-332-manual, ,professional,paid
+1055088,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055664,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055906,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055895,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055701,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055873,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055082,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055194,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055408,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056022,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055494,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056152,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055932,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055696,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055835,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055750,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055332,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055941,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1055379,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1056173,2022-03-24,2022-04-07,incident-332-manual, ,pro,paid
+1055336,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055437,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055900,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+997871,2022-02-04,2022-02-19,incident-300, ,pro,paid
+988728,2022-01-29,2022-02-12,incident-300, ,pro,paid
+997870,2022-02-04,2022-02-19,incident-300, ,starter,paid
+997844,2022-02-04,2022-02-19,incident-300, ,starter,paid
+997868,2022-02-04,2022-02-19,incident-300, ,starter,paid
+988729,2022-01-29,2022-02-12,incident-300, ,professional-plus,paid
+988726,2022-01-29,2022-02-12,incident-300, ,professional,paid
+997831,2022-02-04,2022-02-19,incident-300, ,pro,paid
+997900,2022-02-05,2022-02-19,incident-300, ,pro,paid
+997860,2022-02-04,2022-02-19,incident-300, ,pro,paid
+988723,2022-01-29,2022-02-12,incident-300, ,pro,paid
+988734,2022-01-29,2022-02-12,incident-300, ,pro,paid
+1055340,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055189,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055360,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055239,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055177,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055351,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055099,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055128,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055430,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055242,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1055075,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+997858,2022-02-04,2022-02-18,incident-300, ,team,paid
+1055068,2022-03-23,2022-04-05,incident-332-manual, ,hv-trial,paid
+1055438,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1054457,2022-03-23,2022-04-05,incident-332, ,team,paid
+1053755,2022-03-22,2022-04-06,incident-332, ,hv-trial,paid
+1009352,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009403,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009274,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009769,2022-02-14,2022-03-01,incident-310, ,starter,paid
+1009339,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1009243,2022-02-14,2022-02-28,incident-310, ,professional,paid
+1015226,2022-02-17,2022-03-03,incident-313, ,team,paid
+997893,2022-02-04,2022-02-19,incident-300, ,hv-trial,associate-cc
+988719,2022-01-29,2022-02-12,incident-300, ,hv-trial,associate-cc
+1025108,2022-02-25,2022-03-14,incident-321, ,starter,paid
+1009271,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1055420,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1009279,2022-02-14,2022-02-28,incident-309, ,pro,paid
+1009260,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1055134,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055315,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1056065,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1015059,2022-02-17,2022-03-03,incident-313, ,pro,paid
+1058540,2022-03-25,2022-04-08,incident-341, ,pro,paid
+1056073,2022-03-23,2022-04-07,incident-332-manual, ,starter,paid
+1055341,2022-03-23,2022-04-06,incident-332-manual, ,pro,paid
+1055740,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1056214,2022-03-24,2022-04-07,incident-332-manual, ,starter,paid
+1055406,2022-03-23,2022-04-05,incident-332-manual, ,team,paid
+1009024,2022-02-14,2022-02-27,incident-309, ,team,paid
+1008940,2022-02-14,2022-03-15,incident-309, ,professional,paid
+1055458,2022-03-23,2022-04-06,incident-332-manual, ,starter,paid
+1055849,2022-03-23,2022-04-07,incident-332-manual, ,pro,paid
+1009498,2022-02-14,2022-02-28,incident-310, ,professional,paid
+1009387,2022-02-14,2022-02-28,incident-310, ,pro,paid
+1058583,2022-03-25,2022-04-08,incident-341, ,starter,paid
+977281,2022-01-19,2022-02-28,incident-310, ,professional,paid
+1010132,2022-02-14,2022-02-21,incident-309, ,starter,paid
+994964,2022-02-03,2022-02-11,incident-304, ,pro,paid
+1058684,2022-03-25,2022-04-01,incident-341, ,pro,paid
+1015014,2022-02-17,2022-03-06,incident-313, ,free,associate-cc
+1008930,2022-02-14,2022-02-28,incident-309, ,starter,paid
+1015123,2022-02-17,2022-03-04,incident-313, ,pro,paid
+1009215,2022-02-14,2022-02-28,incident-310, ,hv-trial,paid
+1009473,2022-02-14,2022-02-28,incident-310, ,starter,paid
+1009047,2022-02-14,2022-02-28,incident-309, ,pro,paid

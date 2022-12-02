@@ -1,0 +1,5 @@
+1055925,2022-03-23,2022-04-07,7 days,offered,hv-trial,incident-332-manual, ,paid,premium-domain,pro, ,,,,,,,,,,,,,,,,,,,,,,,,
+1055466,2022-03-23,2022-04-06,7 days,offered,hv-trial,incident-332-manual, ,paid,premium-domain,pro, ,,,,,,,,,,,,,,,,,,,,,,,,
+1055410,2022-03-23,2022-04-06,7 days,offered,hv-trial,incident-332-manual, ,paid,premium-domain,pro, ,,,,,,,,,,,,,,,,,,,,,,,,
+1055645,2022-03-23,2022-04-06,7 days,offered,hv-trial,incident-332-manual, ,pacific/auckland,paid,premium-domain,professional-plus, ,,,,,,,,,,,,,,,,,,,,,,,
+1055243,2022-03-23,2022-04-06,7 days,offered,hv-trial,incident-332-manual, ,pacific/auckland,paid,premium-domain,professional-plus, ,,,,,,,,,,,,,,,,,,,,,,,
