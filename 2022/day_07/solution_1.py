@@ -52,9 +52,9 @@ def initial_map_setup(list_of_lines):
     return filemap_output
 
 def main(lines):
-    map_dict = initial_map_setup(lines)
+    filemap_list = initial_map_setup(lines)
     solution = 0
-    for item in map_dict:
+    for item in filemap_list:
         if item.final_sizes <= 100000:
             solution += item.final_sizes
     print(solution)
