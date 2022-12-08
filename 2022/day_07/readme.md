@@ -1,0 +1,1 @@
+the original didn't work because they were repeating directory names in different directories! so my dict didn't distinguish between those.
