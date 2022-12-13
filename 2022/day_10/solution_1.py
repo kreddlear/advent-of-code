@@ -13,7 +13,6 @@ with open('./input_test_large.txt') as f:
 
 def check_cycle(cycle):
     if cycle % 40 == 20:
-        print("checking cycle...it's",cycle)
         return True
     else:
         return False
@@ -25,45 +24,25 @@ def main(lines):
     signal_strength_sum = 0
 
     for line in lines:
-        print("-------------")
-        print("starting line:",line)
-        print("x equals:",x)
         if line == 'noop':
-            print("cycle",cycle_num,"complete")
             cycle_num += 1
-            print("starting cycle",cycle_num)
-            print("noop")
             if check_cycle(cycle_num):
-                print("it's 20!",x)
                 signal_strength = cycle_num * x
                 signal_strength_sum += signal_strength
-                print(signal_strength)
-            print("cycle",cycle_num,"complete")
         else:
             num = int(line.split()[1])
-            print("cycle",cycle_num,"complete")
             cycle_num += 1
-            print("starting cycle",cycle_num)
             if check_cycle(cycle_num):
-                print("it's in the middle!!!",x)
                 signal_strength = cycle_num * x
                 signal_strength_sum += signal_strength
-                print(signal_strength)
-            print("cycle",cycle_num,"complete")
             cycle_num += 1
-            print("starting cycle",cycle_num)
             if check_cycle(cycle_num):
-                print("it's 20!",x)
                 signal_strength = cycle_num * x
                 signal_strength_sum += signal_strength
-                print(signal_strength)
-
-            print("cycle",cycle_num,"complete")
-            print(x,"updating with:",num)
             x += num
 
-    print("final x",x)
-    print("final cycle",cycle_num)
+    # print("final x",x)
+    # print("final cycle",cycle_num)
     print(signal_strength_sum)
 
 main(contents)
