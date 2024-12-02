@@ -10,21 +10,18 @@ with open('./input.txt') as f:
 
 similarity_score = 0
 
-# store counted nums
-# so I don't have to recount numbers if I've seen them before
-counted_nums = {}
-# loop through each number in left
+# this isn't actually necessary; it performs fine just counting every time!
+# counted_nums = {}
+# for num in left:
+#     if num not in counted_nums:
+#         right_count = right.count(num)
+#         counted_nums[num] = right_count
+#     else:
+#         right_count = counted_nums[num]
+#     similarity_score = similarity_score + (num * right_count)
+
 for num in left:
-    # if it's not in counted_nums
-    if num not in counted_nums:
-        # count how many times it appears in right list
-        right_count = right.count(num)
-        # add to list
-        counted_nums[num] = right_count
-    else:
-        # if it is in counted_nums, use the count
-        right_count = counted_nums[num]
-    # add to similarity score: num * count
+    right_count = right.count(num)
     similarity_score = similarity_score + (num * right_count)
 
 print(similarity_score)
